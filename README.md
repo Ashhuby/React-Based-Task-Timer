@@ -2,7 +2,7 @@
 
 A modern React application designed to help you track time spent on tasks and projects that span days, weeks, or months. Perfect for students, developers, and anyone working on long-term goals where traditional hour-based tracking falls short.
 
-## 🚀 Why FocusTime?
+## Why FocusTime?
 
 Most time trackers focus on hours and minutes, but real projects like:
 - **Reading books** (e.g., "Finish Frankenstein")
@@ -12,7 +12,7 @@ Most time trackers focus on hours and minutes, but real projects like:
 
 ...take days or weeks to complete. FocusTime is built specifically for these long-term endeavors.
 
-## ✨ Key Features
+## Key Features
 
 ### Smart Project Tracking
 - **Day-based progress** - Track projects over time, not just hours
