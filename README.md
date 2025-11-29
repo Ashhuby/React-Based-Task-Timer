@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# FocusTime - Long-Term Project Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern React application designed to help you track time spent on tasks and projects that span days, weeks, or months. Perfect for students, developers, and anyone working on long-term goals where traditional hour-based tracking falls short.
 
-## Available Scripts
+## 🚀 Why FocusTime?
 
-In the project directory, you can run:
+Most time trackers focus on hours and minutes, but real projects like:
+- **Reading books** (e.g., "Finish Frankenstein")
+- **Learning new skills** (e.g., "Master React")
+- **Building projects** (e.g., "Create portfolio website")
+- **Writing content** (e.g., "Complete research paper")
 
-### `npm start`
+...take days or weeks to complete. FocusTime is built specifically for these long-term endeavors.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Smart Project Tracking
+- **Day-based progress** - Track projects over time, not just hours
+- **Automatic daily updates** - Progress accumulates automatically
+- **Manual adjustments** - Add or remove days as needed
+- **Expected vs. actual** - Compare planned vs. real time spent
 
-### `npm test`
+### Visual Progress & Analytics
+- **Progress bars** - Visual representation of completion
+- **Productivity statistics** - Efficiency scores and insights
+- **Time savings** - See how much time you've saved vs. expectations
+- **Completion rates** - Track your project success history
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Deadline Management
+- **Due dates** - Set realistic deadlines
+- **Countdown alerts** - Visual warnings for approaching deadlines
+- **Overdue tracking** - Identify projects needing attention
+- **Completion dates** - Record when you finish projects
 
-### `npm run build`
+### User Experience
+- **Clean, modern interface** - Enjoy using the app daily
+- **Project descriptions** - Add detailed notes and context
+- **Responsive design** - Works perfectly on desktop and mobile
+- **Local storage** - Your data stays safe in your browser
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technology Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React 17+** - Modern functional components with hooks
+- **CSS3** - Custom styling with gradients and animations
+- **Local Storage API** - Persistent data storage
+- **Responsive Design** - Mobile-first approach
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📦 Installation & Setup
 
-### `npm run eject`
+```bash
+# Clone the repository
+git clone https://github.com/your-username/time-tracker.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Navigate to project directory
+cd time-tracker
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Install dependencies
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Start development server
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Open http://localhost:3000 in your browser
