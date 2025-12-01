@@ -46,7 +46,7 @@ Most time trackers focus on hours and minutes, but real projects like:
 - **Responsive Design** - Mobile-first approach
 
 ## Live Demo
-➡️ **[Try it live here](https://YOUR_USERNAME.github.io/time-tracker)** ⬅️
+➡️ **[Try it live here](https://ashhuby.github.io/React-Based-Task-Timer/)** ⬅️
 
 ## 📦 Installation & Setup
 
