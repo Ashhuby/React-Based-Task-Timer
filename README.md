@@ -45,6 +45,9 @@ Most time trackers focus on hours and minutes, but real projects like:
 - **Local Storage API** - Persistent data storage
 - **Responsive Design** - Mobile-first approach
 
+## Live Demo
+➡️ **[Try it live here](https://YOUR_USERNAME.github.io/time-tracker)** ⬅️
+
 ## 📦 Installation & Setup
 
 ```bash
