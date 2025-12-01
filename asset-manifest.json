@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ashhuby/React-Based-Task-Timer/static/css/main.b2e07526.css",
-    "main.js": "/Ashhuby/React-Based-Task-Timer/static/js/main.d1fb037e.js",
-    "index.html": "/Ashhuby/React-Based-Task-Timer/index.html",
-    "main.b2e07526.css.map": "/Ashhuby/React-Based-Task-Timer/static/css/main.b2e07526.css.map",
-    "main.d1fb037e.js.map": "/Ashhuby/React-Based-Task-Timer/static/js/main.d1fb037e.js.map"
+    "main.css": "/React-Based-Task-Timer/static/css/main.b2e07526.css",
+    "main.js": "/React-Based-Task-Timer/static/js/main.d1fb037e.js",
+    "index.html": "/React-Based-Task-Timer/index.html",
+    "main.b2e07526.css.map": "/React-Based-Task-Timer/static/css/main.b2e07526.css.map",
+    "main.d1fb037e.js.map": "/React-Based-Task-Timer/static/js/main.d1fb037e.js.map"
   },
   "entrypoints": [
     "static/css/main.b2e07526.css",
